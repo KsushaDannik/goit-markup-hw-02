@@ -1,0 +1,39 @@
+:root {
+  --main-color: #757575;
+  --secondary-color: #212121;
+}
+
+body {
+  /*font-family: 'Raleway', sans-serif;*/
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  color: #757575;
+}
+
+.container {
+  width: 1200px;
+}
+.menu {
+}
+.menu-item {
+}
+.menu-link {
+  color: #212121;
+}
+.menu-link:hover,
+.menu-link:focus {
+  color: #2196f3;
+}
+.contacts {
+}
+.contact-item {
+}
+.contact-link {
+  color: #757575;
+}
+.contact-link:hover,
+.contact-link:focus {
+  color: #2196f3;
+}
