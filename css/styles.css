@@ -93,7 +93,7 @@ ul {
 }
 .hero-btn:hover,
 .hero-btn:focus {
-  color: #188ce8;
+  background-color: #188ce8;
 }
 
 .box-title {
